@@ -1,7 +1,7 @@
-#ifndef ROM_QUEUE_H
-#define ROM_QUEUE_H
+#ifndef ROM_TREE_H
+#define ROM_TREE_H
 
-class Queue
+class Tree
 {
 
 };
